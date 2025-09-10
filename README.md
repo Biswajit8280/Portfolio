@@ -1,6 +1,7 @@
 
 
-## Project info        Portfolio
+## Project info       
+Portfolio
 
 
 
@@ -51,6 +52,7 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
+
 
 
 
