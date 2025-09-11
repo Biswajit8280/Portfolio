@@ -24,7 +24,7 @@ const Certifications = () => {
       date: "Jul-Oct 2024",
       skills: ["Java", "OOP", "Collections", "Algorithums"],
       description: "Completed NPTEL certification in Data Structures and Algorithms using Java, covering core and advanced DSA concepts with practical implementation.",
-      link: "./src/assets/Data Structure and Algorithms using Java.pdf",
+      link: "src/assets/Data Structure and Algorithms using Java.pdf",
       color: "bg-orange-500/10 text-orange-600"
     },
     {
@@ -162,5 +162,6 @@ const Certifications = () => {
     </section>
   );
 };
+
 
 export default Certifications;
